@@ -12,7 +12,8 @@ export default function App() {
     'Deixe de lado as preocupações e seja feliz.',
     'Realize o óbvio, pense no improvável e conquiste o impossível.',
     'Acredite em milagres, mas não dependa deles.',
-    'A maior barreira para o sucesso é o medo do fracasso.'
+    'A maior barreira para o sucesso é o medo do fracasso.',
+    'Testando'
   ]
 
   const handleCookie = () => {
